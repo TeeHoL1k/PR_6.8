@@ -1,0 +1,10 @@
+a:hover {
+    background-color: bisque;
+}
+
+a {
+    font-family: 'TildaSans', Arial, sans-serif;
+    color: black;
+    font-size: 2rem;
+    text-decoration: none;
+}
