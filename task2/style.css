@@ -1,0 +1,19 @@
+code, pre {
+  font-family: Consolas, Monaco, 'Courier New', monospace;
+  background-color: #404040;
+  color: #dcdcdc; 
+  padding: 10px;
+  border-radius: 8px;
+  line-height: 1.5;
+  font-size: 14px;
+}
+
+#consoleLog, #alert, #prompt {
+    font-family: 'Manrope', Arial, sans-serif;
+    font-size: 26px;
+    padding-top: 10px;
+}
+
+p:hover {
+    color: rgb(49, 149, 255);
+}
